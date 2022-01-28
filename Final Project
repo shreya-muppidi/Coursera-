@@ -54,7 +54,7 @@ The major purpose of this project, is to suggest a better neighborhood in a new 
 Sorted list of house in terms of housing prices in a ascending or descending order
 Sorted list of schools in terms of location, fees, rating and reviews
 
-6. Conclusion Section
+6. Conclusion
 
 In this project, using k-means cluster algorithm I separated the neighborhood into 10(Ten) different clusters and for 103 different lattitude and longitude from dataset, which have very-similar neighborhoods around them. Using the charts above results presented to a particular neighborhood based on average house prices and school rating have been made.
 I feel rewarded with the efforts and believe this course with all the topics covered is well worthy of appreciation. This project has shown me a practical application to resolve a real situation that has impacting personal and financial impact using Data Science tools. The mapping with Folium is a very powerful technique to consolidate information and make the analysis and decision better with confidence.
